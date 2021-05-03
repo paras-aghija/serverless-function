@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Setup
 
 - Clone repo
-- Install netlify cli globally 'npm install -g netlify-cli'
-- Install dependencies 'npm install'
-- Run 'netlify dev'
+- Install netlify cli globally `npm install -g netlify-cli`
+- Install dependencies `npm install`
+- Run `netlify dev`
 - View application and serverless function running on port 8888
 
 ## Available Scripts
