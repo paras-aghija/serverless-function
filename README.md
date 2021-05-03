@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup
+
+- Clone repo
+- Install netlify cli globally 'npm install -g netlify-cli'
+- Install dependencies 'npm install'
+- Run 'netlify dev'
+- View application and serverless function running on port 8888
+
 ## Available Scripts
 
 In the project directory, you can run:
